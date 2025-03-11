@@ -2,7 +2,9 @@
 
 A modern, clean visualization tool for Artillery load test reports that provides an intuitive dashboard to analyze performance metrics.
 
-![Artillery Report Visualization](https://via.placeholder.com/800x400?text=Artillery+Report+Visualization)
+![Artillery Report Visualization](https://cdn.jsdelivr.net/gh/othnielvtf/ArtillerySimpleReport@main/screenshot.png)
+
+Demo: [Artillery Simple Report (VTF)](https://vtf-artillery-simple-report.vercel.app/)
 
 ## Features
 
