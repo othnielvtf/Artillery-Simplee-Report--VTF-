@@ -1,4 +1,4 @@
-# Artillery Simplee Report (VTF)
+# Artillery Simple Report (VTF)
 
 A modern, clean visualization tool for Artillery load test reports that provides an intuitive dashboard to analyze performance metrics.
 
@@ -34,8 +34,8 @@ A modern, clean visualization tool for Artillery load test reports that provides
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd artillery-simplee-report
+git clone https://github.com/othnielvtf/ArtillerySimpleReport
+cd ArtillerySimpleReport
 ```
 
 2. Install dependencies
@@ -61,7 +61,7 @@ yarn dev
 artillery run my-test.yml --output my-report.json
 ```
 
-2. Open the Artillery Simplee Report application
+2. Open the Artillery Simple Report application
 3. Upload your JSON report file
 4. Analyze the visualized metrics and performance data
 
